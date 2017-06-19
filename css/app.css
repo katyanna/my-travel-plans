@@ -18,7 +18,7 @@ body {
 .container {
   margin: auto;
   padding: 1em;
-  width: 80%;
+  width: 90%;
 }
 
 .destination-container {
@@ -51,10 +51,10 @@ h2 {
   text-shadow: 0 0 5px #01579b;
 }
 
-#florida {
+#went {
   background-color: #03a9f4;
 }
 
-#paris {
+#want-to-go {
   background-color: #d32f2f;
 }
